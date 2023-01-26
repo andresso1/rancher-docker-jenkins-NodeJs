@@ -1,0 +1,32 @@
+{
+  "name": "rancher-docker-jenkins-nodejs",
+  "version": "1.0.0",
+  "description": "info from the README, or an empty string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresso1/rancher-docker-jenkins-NodeJs.git"
+  },
+  "engines": {
+    "node": "^4.6.1"
+  },
+  "keywords": [
+    "Test",
+    "Node",
+    "js",
+    "Jenkins",
+    "ci"
+  ],
+  "author": "Jaime Andres Sotelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresso1/rancher-docker-jenkins-NodeJs/issues"
+  },
+  "homepage": "https://github.com/andresso1/rancher-docker-jenkins-NodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+   }
+}
